@@ -1,1 +1,5 @@
 # HeltiDBMS
+
+* Proiectul meu descrie modelul de functionare al unei francize de restaurante sanatoase fictive, Helti, care pune aspectul foarte mult pe valorile nutritionale ale produselor, in principal din perspectiva unui utilizator normal, al unei pagini web/aplicatii pe care o acceseaza, cu cateva functii logistice, fiind inspirat de doua francize existente, “eazie” si “Pep & Pepper”, cu cateva modificari/adaosuri. 
+* Astfel, utilizatorii isi pot inregistra un cont prin care pot comanda, prin ridicare in magazin, de la diverse locatii ale francizei, acestea oferind diferite meniuri si produse individuale, impartite pe categorii, avand un stoc variat de produse care intra in alcatuirea lor, cu valorile lor alimentare descrise clar si detaliat.
+* De asemenea, magazinul incearca sa rasplateasca loialitatea clientilor: ei pot revendica recompense pentru punctele acumulate din realizarea cu success a comenzilor, valabile in orice locatie. In plus, acestia pot folosi cupoane generate de administrator in comenzile lor, limitate pentru o categorie unica de produse. 
